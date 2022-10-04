@@ -9,6 +9,7 @@
   "author": "oishi",
   "license": "ISC",
   "dependencies": {
+    "@ethereumjs/tx": "^4.0.0",
     "body-parser": "^1.20.0",
     "browser-error-classes": "^1.0.0",
     "dotenv": "^16.0.3",
@@ -21,7 +22,8 @@
     "shortid": "^2.2.16",
     "truffle-contract": "^4.0.31",
     "web3": "^1.8.0",
-    "web3-eth-contract": "^1.8.0"
+    "web3-eth-contract": "^1.8.0",
+    "web3-eth-personal": "^1.8.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
